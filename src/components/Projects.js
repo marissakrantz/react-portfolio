@@ -3,7 +3,7 @@ import joke from './images/joke.png';
 import tech from './images/tech-blog.png';
 import weather from './images/weatherDashboard.png';
 import github from './images/githubRed.png';
-import travel from './images/';
+import travel from './images/Avatar.png';
 
 
 export default function Portfolio() {
@@ -12,7 +12,7 @@ export default function Portfolio() {
 			<h1>projects.</h1>
 			<div class="cards">
 				<div class="card">
-					<a href="">
+					<a href="https://github.com/marissakrantz/react-travel-app">
 						<img src={travel} alt="Travel App" class="card-image" />
 					</a>
 						<div class="card-info">

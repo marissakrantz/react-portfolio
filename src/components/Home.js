@@ -19,11 +19,11 @@ const Home = () => (
               <hr />
               <p> JavaScript | SQL | React | HTML | CSS | GraphQL | Git | Mongo </p>
             <div className="social-links">
-            <a href="https://github.com/marissakrantz" target="_blank" rel="noopener noreferrer" class="icons">
-			        <img src={github} alt="red github icon" class="icon-img" />
+            <a href="https://github.com/marissakrantz" target="_blank" rel="noopener noreferrer" className="icons">
+			        <img src={github} alt="red github icon" className="icon-img" />
 			      </a>
-            <a href="https://www.linkedin.com/in/marissa-tobin-0b0713b8/" target="_blank" rel="noopener noreferrer" class="icons">
-				      <img src={linkedin} alt="red linkedin icon" class="icon-img" />
+            <a href="https://www.linkedin.com/in/marissa-tobin-0b0713b8/" target="_blank" rel="noopener noreferrer" className="icons">
+				      <img src={linkedin} alt="red linkedin icon" className="icon-img" />
 			      </a>
             </div>
           </div>

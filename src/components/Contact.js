@@ -2,8 +2,8 @@ import React from "react";
 
 export default function Contact(){
     return (
-        <section class='contact'>
-            <div class="form">
+        <section className='contact'>
+            <div className="form">
             <h1>contact me.</h1>
             <form action="contact me" />
                 <h2>Send me an email.</h2>
