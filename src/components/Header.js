@@ -13,13 +13,13 @@ export default function Header() {
     navLink.forEach(n => n.addEventListener("click", closeMenu));
       
     function mobileMenu() {
-        hamburger.classNameList.toggle("active");
-        navMenu.classNameList.toggle("active");
+        hamburger.classList.toggle("active");
+        navMenu.classList.toggle("active");
     }
       
     function closeMenu() {
-        hamburger.classNameList.remove("active");
-        navMenu.classNameList.remove("active");
+        hamburger.classList.remove("active");
+        navMenu.classList.remove("active");
     }
 
   });    
@@ -28,11 +28,11 @@ export default function Header() {
     <header>
       <div>MK</div>
       <div id="navBar" className="mdl-navigation">
-        <NavLink id="link-navbar" className="mdl-navigation__link" to="/React-Portfolio">Home</NavLink>
-        <NavLink id="link-navbar" className="mdl-navigation__link" to="/about">About</NavLink>
-        <NavLink id="link-navbar" className="mdl-navigation__link" to="/projects">Projects</NavLink>
-        <NavLink id="link-navbar" className="mdl-navigation__link" to="/curriculumvitae">CV</NavLink>
-        <NavLink id="link-navbar" className="mdl-navigation__link" to="/contact">Contact</NavLink>
+        <NavLink id="link-navbar" className="mdl-navigation__link active" to="/React-Portfolio">Home</NavLink>
+        <NavLink id="link-navbar" className="mdl-navigation__link active" to="/about">About</NavLink>
+        <NavLink id="link-navbar" className="mdl-navigation__link active" to="/projects">Projects</NavLink>
+        <NavLink id="link-navbar" className="mdl-navigation__link active" to="/curriculumvitae">CV</NavLink>
+        <NavLink id="link-navbar" className="mdl-navigation__link active" to="/contact">Contact</NavLink>
       </div>
       <div className="hamburger">
         <span className="bar"></span>
