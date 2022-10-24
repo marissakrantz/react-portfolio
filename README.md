@@ -30,7 +30,7 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 ## Usage
 
-> Portfolio can be viewed [HERE]()
+> Portfolio can be viewed [HERE](https://marissakrantz.github.io/react-portfolio/)
 
 <img src="src\images\portfolio-screenshot.JPG" alt= "Screenshot of portfolio landing page">
 
@@ -60,4 +60,4 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 > Marissa Krantz  - marissaleak@hotmail.com
 
-> Profile: []()
+> Profile: [https://marissakrantz.github.io/react-portfolio/](https://marissakrantz.github.io/react-portfolio/)
