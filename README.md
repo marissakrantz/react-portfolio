@@ -32,7 +32,7 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 > Portfolio can be viewed [HERE](https://marissakrantz.github.io/react-portfolio/)
 
-<img src="src\images\portfolio-screenshot.jpg" alt= "Screenshot of portfolio landing page">
+<img src="src\components\images\portfolio-screenshot.jpg" alt= "Screenshot of portfolio landing page">
 
 ## Tests
 
