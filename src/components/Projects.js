@@ -3,7 +3,7 @@ import joke from './images/joke.png';
 import tech from './images/tech-blog.png';
 import weather from './images/weatherDashboard.png';
 import github from './images/githubRed.png';
-import travel from './images/Avatar.png';
+import travel from './images/travel.png';
 
 
 export default function Portfolio() {
@@ -12,7 +12,7 @@ export default function Portfolio() {
 			<h1>projects.</h1>
 			<div className="cards">
 				<div className="card">
-					<a href="https://github.com/marissakrantz/react-travel-app">
+					<a href="https://ris-travel-app1.herokuapp.com/login">
 						<img src={travel} alt="Travel App" className="card-image" />
 					</a>
 						<div className="card-info">
@@ -40,7 +40,7 @@ export default function Portfolio() {
 						</div>
 				</div>
 				<div className="card">
-					<a href="https://ris-tech-blog.herokuapp.com/">
+					<a href="https://floating-waters-40237.herokuapp.com/login">
 						<img src={tech} alt="Tech-Blog" className="card-image" />
 					</a>
 						<div className="card-info">
