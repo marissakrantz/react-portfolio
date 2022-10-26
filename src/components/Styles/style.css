@@ -15,12 +15,12 @@ body {
     font-family: 'Roboto', sans-serif;
     min-height: 100vh;
     position: relative;
-    background: linear-gradient(to right, #eeeedd, #dcdccc);
+    background: white;
 
 }
 
 header {
-    background: linear-gradient(to right, #eeeedd, #dcdccc);
+    background: white;
     position: fixed;
     width: 100%;
     min-height: 80px;
@@ -71,7 +71,7 @@ header {
 
   #home-page-grid {
     padding-top: 80px;
-    background: linear-gradient(to right, #eeeedd, #dcdccc);
+    background: white;
     text-align: center;
     overflow: auto;
     padding-bottom: 2.5rem;
@@ -126,7 +126,7 @@ header {
 }
 
 .about {
-    background: linear-gradient(to right, #eeeedd, #dcdccc);
+    background: white;
     display: flex;
 	flex: wrap;
 	flex-direction: row;
@@ -183,7 +183,7 @@ header {
 }
 
 .project, .resume, .contact {
-    background: linear-gradient(to right, #eeeedd, #dcdccc);
+    background: white;
 	padding: 2.5rem;
     padding-top: 80px;
     color: black;
@@ -257,7 +257,7 @@ input[type=submit] {
 }
 
 footer {
-    background: linear-gradient(to right, #eeeedd, #dcdccc);
+    background: white;
     position: absolute;
     bottom: 0;
     width: 100%;
@@ -295,7 +295,7 @@ input[type=submit]:hover {
 		position: fixed;
         left: -100%;
         flex-direction: column;
-        background: linear-gradient(to right, #ed213a, #93291e);
+        background: white;
         width: 100%;
         height: 25vh;
         border-radius: 0 0 10px 10px;
