@@ -1,8 +1,8 @@
 :root {
 	--cream: #eeeedd;
-	--red: #fa87a2;
+	--red: #ff88fe;
 	--dark: #444444;
-	--lightgrey: #5e5e5e;
+	--lightgrey: #e0dede;
 }
 
 * {
@@ -113,13 +113,20 @@ header {
     max-width: 50%;
   }
 
+  .avatar1-img {
+    max-height: 200px;
+    padding-top: 2.5rem;
+    max-width: 50%;
+    border-radius: 55%;
+  }
+
   .icons {
 	display: inline-flex;
 	text-align: center;
 }
 
 .icon-img {
-	max-width: 200px;
+	max-width: 150px;
 	text-align: center;
 	padding: 0 3rem 2rem 2rem;
     justify-content: space-between;

@@ -18,7 +18,7 @@ export default function Portfolio() {
 						<div className="card-info">
 							<h2>Travel App</h2>
 							<div className='tech-repo'>
-								<span className='techs'>React | Mongo | GraphQL</span>
+								<span className='techs'>React | Mongo | GraphQL </span>
 								<a href="https://github.com/marissakrantz/react-travel-app">
 									<img src={github} alt='github repo' className='gitRepo'/>
 								</a>

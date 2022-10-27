@@ -1,5 +1,5 @@
 import React from "react";
-import Avatar from './images/Avatar.png';
+import Avatar from './images/avatar1.png';
 import github from './images/githubRed.png';
 import linkedin from './images/linkedinRed.png';
 
@@ -8,7 +8,7 @@ const Home = () => (
         <div id="home-page-grid">
             <div className="image-container">
               <img
-                className="avatar-img"
+                className="avatar1-img"
                 src={Avatar}
                 alt="Avatar Pic"
               />
