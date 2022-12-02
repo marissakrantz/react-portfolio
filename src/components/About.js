@@ -9,7 +9,7 @@ const About = () => (
             <br />
             <p className="description">I found interest in web development after growing bored in my previous positions and seeing how challenging web development can be.</p>
             <br />
-            <p className="description">I have a Bachelors in Social Sciences as well as a Certificate in Full Stack Development from the University of Western Australia.</p>
+            <p className="description">I have a Bachelor of Arts Degree in Social Sciences as well as a Certificate in Full Stack Development from the University of Western Australia.</p>
             <br />
             <p className="description">Other than creating projects for my portfolio you'll find me at the beach or lounging on my patio.</p>
         </div>
