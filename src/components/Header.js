@@ -26,7 +26,7 @@ export default function Header() {
   
   return (
     <header>
-      <div>MK</div>
+      <div>MT</div>
       <div id="navBar" className="mdl-navigation">
         <NavLink id="link-navbar" className="mdl-navigation__link active" to="/React-Portfolio">Home</NavLink>
         <NavLink id="link-navbar" className="mdl-navigation__link active" to="/about">About</NavLink>

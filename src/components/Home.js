@@ -14,7 +14,7 @@ const Home = () => (
               />
             </div>
             <div className="banner-text">
-              <h1>Marissa Krantz</h1>
+              <h1>Marissa Tobin (Krantz)</h1>
               <h2>Full Stack Web Developer</h2>
               <hr />
               <p> JavaScript | SQL | React | HTML | CSS | GraphQL | Git | Mongo </p>
