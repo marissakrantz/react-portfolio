@@ -7,7 +7,7 @@ const About = () => (
             <h1>about me.</h1>
             <p className="intro">I'm a Full Stack Web Developer based in Perth, Western Australia.</p>
             <br />
-            <p className="description">I found interest in web development after growing bored in my previos positions and seeing how challenging web development can be.</p>
+            <p className="description">I found interest in web development after growing bored in my previous positions and seeing how challenging web development can be.</p>
             <br />
             <p className="description">I have a Bachelors in Social Sciences as well as a Certificate in Full Stack Development from the University of Western Australia.</p>
             <br />
